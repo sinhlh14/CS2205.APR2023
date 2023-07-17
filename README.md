@@ -1,4 +1,4 @@
-# CS2205.APR2023
+# Lê Hoàng Sinh - CH1901028 - CS2205.APR2023
 Include 3 files: 
 - Report
 - Slide
